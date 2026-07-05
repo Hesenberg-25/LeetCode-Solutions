@@ -78,6 +78,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hesenberg-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -91,4 +92,12 @@
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Hesenberg-25/LeetCode/tree/master/0875-koko-eating-bananas) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hesenberg-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Hesenberg-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

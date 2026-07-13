@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Hesenberg-25/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Hesenberg-25/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -94,6 +95,7 @@
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Hesenberg-25/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
@@ -135,4 +137,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

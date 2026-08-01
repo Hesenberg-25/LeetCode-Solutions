@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Hesenberg-25/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Hesenberg-25/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
@@ -74,6 +75,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Hesenberg-25/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [0085-maximal-rectangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -201,6 +204,7 @@
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -278,4 +282,8 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

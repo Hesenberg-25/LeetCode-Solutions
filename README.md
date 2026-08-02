@@ -18,6 +18,7 @@
 | [0503-next-greater-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Hesenberg-25/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -185,6 +186,7 @@
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -286,4 +289,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hesenberg-25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -99,6 +100,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hesenberg-25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -151,6 +153,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Hesenberg-25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/Hesenberg-25/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/Hesenberg-25/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Design

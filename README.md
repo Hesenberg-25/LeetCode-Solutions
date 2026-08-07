@@ -44,6 +44,7 @@
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0460-lfu-cache](https://github.com/Hesenberg-25/LeetCode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0901-online-stock-span](https://github.com/Hesenberg-25/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Hesenberg-25/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |

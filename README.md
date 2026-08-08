@@ -74,6 +74,7 @@
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/Hesenberg-25/LeetCode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -241,6 +242,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Hesenberg-25/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -281,6 +284,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

@@ -355,4 +355,5 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Hesenberg-25/LeetCode/tree/master/1114-print-in-order) |
+| [1195-fizz-buzz-multithreaded](https://github.com/Hesenberg-25/LeetCode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->

@@ -1,26 +1,39 @@
 class Solution {
 private:
-    vector<int> inorder;
-    int index = 0;
+    TreeNode* first = nullptr;
+    TreeNode* middle = nullptr;
+    TreeNode* last = nullptr;
+    TreeNode* prev = nullptr;
 
-    void getInorder(TreeNode* root) {
-        if (!root) return;
-        getInorder(root->left);
-        inorder.push_back(root->val);
-        getInorder(root->right);
-    }
+    void inOrder(TreeNode* node) {
+        if (node == nullptr) return;
 
-    void restoreTree(TreeNode* root) {
-        if (!root) return;
-        restoreTree(root->left);
-        root->val = inorder[index++];
-        restoreTree(root->right);
+        inOrder(node->left);
+
+        if (prev != nullptr && node->val < prev->val) {
+            if (first == nullptr) {
+                first = prev;
+                middle = node;
+            } 
+            else {
+                last = node;
+            }
+        }
+        prev = node;
+
+        inOrder(node->right);
     }
 
 public:
     void recoverTree(TreeNode* root) {
-        getInorder(root);
-        sort(inorder.begin(), inorder.end());
-        restoreTree(root);
+        first = middle = last = prev = nullptr;
+        inOrder(root);
+
+        if (first && last) {
+            swap(first->val, last->val);
+        } 
+        else if (first && middle) {
+            swap(first->val, middle->val);
+        }
     }
 };

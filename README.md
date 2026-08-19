@@ -27,6 +27,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hesenberg-25/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Hesenberg-25/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Hesenberg-25/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hesenberg-25/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/3731-find-missing-elements) |
@@ -190,6 +191,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Hesenberg-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Hesenberg-25/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Hesenberg-25/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Hesenberg-25/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Hesenberg-25/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |

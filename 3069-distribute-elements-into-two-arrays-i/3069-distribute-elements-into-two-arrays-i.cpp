@@ -16,10 +16,7 @@ public:
             }
         }
 
-        vector<int> result;
-        result.insert(result.end(),arr1.begin(),arr1.end());
-        result.insert(result.end(),arr2.begin(),arr2.end());
-
-        return result;
+        arr1.insert(arr1.end(), arr2.begin(), arr2.end());
+        return arr1;
     }
 };

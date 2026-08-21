@@ -89,6 +89,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Hesenberg-25/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 ## Hash Table
@@ -242,6 +243,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -385,6 +387,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Hesenberg-25/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Lifting
 |  |
 | ------- |

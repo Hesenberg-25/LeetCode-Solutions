@@ -243,6 +243,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Hesenberg-25/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
@@ -387,6 +388,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Hesenberg-25/LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Hesenberg-25/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Lifting

@@ -30,6 +30,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Hesenberg-25/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Hesenberg-25/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Hesenberg-25/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hesenberg-25/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -247,6 +248,7 @@
 | [0011-container-with-most-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Hesenberg-25/LeetCode/tree/master/0402-remove-k-digits) |
 | [0846-hand-of-straights](https://github.com/Hesenberg-25/LeetCode/tree/master/0846-hand-of-straights) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |

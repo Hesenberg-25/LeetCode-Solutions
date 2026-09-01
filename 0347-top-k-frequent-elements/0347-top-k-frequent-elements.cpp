@@ -1,20 +1,31 @@
+#include <vector>
+#include <unordered_map>
+#include <queue>
+
+using namespace std;
+
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        vector<int> ans;
-        unordered_map<int,int> store;
-        for(int num : nums){
+        unordered_map<int, int> store;
+        for (int num : nums) {
             store[num]++;
         }
-        priority_queue<pair<int,int>> MaxHeap;
-        for(auto ele : store){
-            MaxHeap.push({ele.second,ele.first});
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> minHeap;
+
+        for (auto& [val, freq] : store) {
+            minHeap.push({freq, val});
+            if (minHeap.size() > k) {
+                minHeap.pop(); 
+            }
         }
-        while(k>0){
-            ans.push_back(MaxHeap.top().second);
-            MaxHeap.pop();
-            k--;
+
+        vector<int> ans;
+        while (!minHeap.empty()) {
+            ans.push_back(minHeap.top().second);
+            minHeap.pop();
         }
+
         return ans;
     }
 };

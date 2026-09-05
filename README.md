@@ -18,6 +18,7 @@
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Hesenberg-25/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Hesenberg-25/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -54,6 +55,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Hesenberg-25/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Hesenberg-25/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hesenberg-25/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -67,6 +69,7 @@
 | [0148-sort-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Hesenberg-25/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Hesenberg-25/LeetCode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -257,6 +260,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Hesenberg-25/LeetCode/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Hesenberg-25/LeetCode/tree/master/0846-hand-of-straights) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -477,4 +481,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

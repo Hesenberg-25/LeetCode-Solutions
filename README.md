@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Hesenberg-25/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Hesenberg-25/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Hesenberg-25/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |

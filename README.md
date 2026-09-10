@@ -21,6 +21,7 @@
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Hesenberg-25/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Hesenberg-25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Hesenberg-25/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -73,6 +74,7 @@
 | [0148-sort-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/Hesenberg-25/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Hesenberg-25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Hesenberg-25/LeetCode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
@@ -253,6 +255,7 @@
 | [0085-maximal-rectangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Hesenberg-25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
@@ -271,6 +274,7 @@
 | [0045-jump-game-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Hesenberg-25/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Hesenberg-25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/Hesenberg-25/LeetCode/tree/master/0846-hand-of-straights) |

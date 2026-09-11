@@ -19,6 +19,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Hesenberg-25/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Hesenberg-25/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/Hesenberg-25/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/Hesenberg-25/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Hesenberg-25/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -273,6 +274,7 @@
 | [0011-container-with-most-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Hesenberg-25/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Hesenberg-25/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Hesenberg-25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Hesenberg-25/LeetCode/tree/master/0455-assign-cookies) |

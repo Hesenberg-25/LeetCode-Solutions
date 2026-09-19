@@ -1,55 +1,33 @@
 #include <vector>
-#include <queue>
 
 using namespace std;
 
 class Solution {
-private:
-    void bfs(int i, int j, vector<vector<bool>>& vis, const vector<vector<char>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        
-        queue<pair<int, int>> store;
-        store.push({i, j});
-        vis[i][j] = true;
-
-        int rowD[] = {-1, 1, 0, 0};
-        int colD[] = {0, 0, -1, 1};
-
-        while (!store.empty()) {
-            auto it = store.front();
-            int row = it.first;
-            int col = it.second;
-            store.pop();
-
-            for (int k = 0; k < 4; k++) {
-                int rolC = row + rowD[k];
-                int colC = col + colD[k];
-
-                if (rolC >= 0 && rolC < n && colC >= 0 && colC < m) {
-                    if (grid[rolC][colC] == '1' && !vis[rolC][colC]) {
-                        vis[rolC][colC] = true;
-                        store.push({rolC, colC});
-                    }
-                }
-            }
+public:
+    void dfs(int row, int col, vector<vector<char>>& grid) {
+        if (row < 0 || row >= grid.size() || col < 0 || col >= grid[0].size() || grid[row][col] != '1') {
+            return;
         }
+        grid[row][col] = '0';
+            
+        dfs(row, col - 1, grid);
+        dfs(row, col + 1, grid);
+        dfs(row - 1, col, grid);
+        dfs(row + 1, col, grid);
     }
 
-public:
     int numIslands(vector<vector<char>>& grid) {
         if (grid.empty() || grid[0].empty()) return 0;
 
-        int island = 0;
         int n = grid.size();
         int m = grid[0].size();
-        vector<vector<bool>> vis(n, vector<bool>(m, false));
+        int island = 0;
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                if (!vis[i][j] && grid[i][j] == '1') {
+                if (grid[i][j] == '1') {
                     island++;
-                    bfs(i, j, vis, grid);
+                    dfs(i, j, grid);
                 }
             }
         }

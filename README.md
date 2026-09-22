@@ -28,6 +28,7 @@
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Hesenberg-25/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hesenberg-25/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Hesenberg-25/LeetCode/tree/master/0846-hand-of-straights) |
@@ -273,6 +274,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Hesenberg-25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -305,6 +307,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Hesenberg-25/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Math
@@ -388,6 +391,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Hesenberg-25/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Hesenberg-25/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Hesenberg-25/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |

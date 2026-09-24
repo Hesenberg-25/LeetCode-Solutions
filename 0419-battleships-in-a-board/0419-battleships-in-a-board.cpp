@@ -1,34 +1,23 @@
 class Solution {
 public:
-    void dfs(int row, int col, vector<vector<char>>& board){
-
-        int n = board.size();
-        int m = board[0].size();
-
-        if(row<0 || row>=n || col<0 || col>=m || board[row][col]!='X') return;
-
-        board[row][col]='.';
-
-        dfs(row-1, col, board);
-        dfs(row+1, col, board);
-        dfs(row, col-1, board);
-        dfs(row, col+1, board);
-    }
     int countBattleships(vector<vector<char>>& board) {
         
+        int cnt = 0;
+        if(board.empty() || board[0].empty()) return cnt;
         int n = board.size();
         int m = board[0].size();
-        int cnt = 0;
 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(board[i][j]=='X'){
+
+                    if(i>0 && board[i-1][j]=='X') continue;
+                    if(j>0 && board[i][j-1]=='X') continue;
+
                     cnt++;
-                    dfs(i, j, board);
                 }
             }
         }
-
         return cnt;
     }
 };

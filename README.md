@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Hesenberg-25/LeetCode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -272,6 +273,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0055-jump-game) |
@@ -560,6 +562,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Union-Find
@@ -587,4 +590,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Hesenberg-25/LeetCode/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

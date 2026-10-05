@@ -194,6 +194,7 @@
 | [0503-next-greater-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Hesenberg-25/LeetCode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Hesenberg-25/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Hesenberg-25/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Hesenberg-25/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -211,6 +212,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Hesenberg-25/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hesenberg-25/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -567,6 +569,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Hesenberg-25/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Union-Find
 |  |

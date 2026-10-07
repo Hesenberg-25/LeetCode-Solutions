@@ -217,6 +217,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hesenberg-25/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hesenberg-25/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hesenberg-25/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Hesenberg-25/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |

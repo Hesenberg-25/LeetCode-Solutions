@@ -48,6 +48,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Hesenberg-25/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Hesenberg-25/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Hesenberg-25/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hesenberg-25/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -89,6 +90,7 @@
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -238,6 +240,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Hesenberg-25/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/Hesenberg-25/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Design
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hesenberg-25/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hesenberg-25/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -477,6 +481,7 @@
 | [0355-design-twitter](https://github.com/Hesenberg-25/LeetCode/tree/master/0355-design-twitter) |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |

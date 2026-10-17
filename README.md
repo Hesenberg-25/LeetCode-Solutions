@@ -358,6 +358,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Hesenberg-25/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Hesenberg-25/LeetCode/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hesenberg-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Hesenberg-25/LeetCode/tree/master/0224-basic-calculator) |

@@ -47,6 +47,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Hesenberg-25/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Hesenberg-25/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -355,6 +356,7 @@
 | [0733-flood-fill](https://github.com/Hesenberg-25/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 ## Math
 |  |
 | ------- |
@@ -433,6 +435,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3310-remove-methods-from-project](https://github.com/Hesenberg-25/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -457,6 +460,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3310-remove-methods-from-project](https://github.com/Hesenberg-25/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |

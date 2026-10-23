@@ -48,6 +48,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Hesenberg-25/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -256,6 +257,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Hesenberg-25/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/Hesenberg-25/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Design
 |  |
@@ -361,6 +363,7 @@
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 ## Math
 |  |
@@ -440,6 +443,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3310-remove-methods-from-project](https://github.com/Hesenberg-25/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -466,6 +470,7 @@
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3310-remove-methods-from-project](https://github.com/Hesenberg-25/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -508,6 +513,7 @@
 | [0355-design-twitter](https://github.com/Hesenberg-25/LeetCode/tree/master/0355-design-twitter) |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
@@ -628,6 +634,7 @@
 | [0785-is-graph-bipartite](https://github.com/Hesenberg-25/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -667,4 +674,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hesenberg-25/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->

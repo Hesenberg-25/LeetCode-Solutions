@@ -55,6 +55,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Hesenberg-25/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hesenberg-25/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Hesenberg-25/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -85,6 +86,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hesenberg-25/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/3731-find-missing-elements) |
@@ -194,6 +197,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
 |  |
@@ -347,6 +351,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hesenberg-25/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Hesenberg-25/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hesenberg-25/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
@@ -515,6 +520,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hesenberg-25/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Monotonic Queue
 |  |
 | ------- |

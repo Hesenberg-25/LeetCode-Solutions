@@ -61,6 +61,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hesenberg-25/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Hesenberg-25/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Hesenberg-25/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hesenberg-25/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/3731-find-missing-elements) |
@@ -373,6 +374,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -456,6 +458,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3310-remove-methods-from-project](https://github.com/Hesenberg-25/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -485,6 +488,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
 | [3310-remove-methods-from-project](https://github.com/Hesenberg-25/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -651,6 +655,7 @@
 | [1254-number-of-closed-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Coloring
 |  |
 | ------- |

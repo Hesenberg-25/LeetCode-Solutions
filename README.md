@@ -67,6 +67,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hesenberg-25/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hesenberg-25/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -397,6 +398,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hesenberg-25/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hesenberg-25/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hesenberg-25/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |

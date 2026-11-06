@@ -324,6 +324,7 @@
 | [0042-trapping-rain-water](https://github.com/Hesenberg-25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Hesenberg-25/LeetCode/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Hesenberg-25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hesenberg-25/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -389,6 +390,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Hesenberg-25/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Hesenberg-25/LeetCode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Hesenberg-25/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hesenberg-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Hesenberg-25/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
@@ -715,4 +717,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hesenberg-25/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hesenberg-25/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

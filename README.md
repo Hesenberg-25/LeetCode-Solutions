@@ -49,6 +49,7 @@
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Hesenberg-25/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -382,6 +383,7 @@
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Hesenberg-25/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -468,6 +470,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Hesenberg-25/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1367-linked-list-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hesenberg-25/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -500,6 +503,7 @@
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Hesenberg-25/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1992-find-all-groups-of-farmland](https://github.com/Hesenberg-25/LeetCode/tree/master/1992-find-all-groups-of-farmland) |
@@ -576,6 +580,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hesenberg-25/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/0912-sort-an-array) |
+| [1267-count-servers-that-communicate](https://github.com/Hesenberg-25/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -670,6 +675,7 @@
 | [0785-is-graph-bipartite](https://github.com/Hesenberg-25/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Hesenberg-25/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Hesenberg-25/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Hesenberg-25/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |

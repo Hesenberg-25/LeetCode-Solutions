@@ -370,6 +370,7 @@
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hesenberg-25/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Hesenberg-25/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hesenberg-25/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hesenberg-25/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hesenberg-25/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Hesenberg-25/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Number Theory
 |  |
 | ------- |

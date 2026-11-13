@@ -153,6 +153,7 @@
 | [0224-basic-calculator](https://github.com/Hesenberg-25/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Hesenberg-25/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
@@ -403,6 +404,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hesenberg-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Hesenberg-25/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Hesenberg-25/LeetCode/tree/master/0231-power-of-two) |
+| [0390-elimination-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |

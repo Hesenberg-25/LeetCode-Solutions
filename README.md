@@ -261,6 +261,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Hesenberg-25/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hesenberg-25/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Hesenberg-25/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Hesenberg-25/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |

@@ -50,6 +50,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Hesenberg-25/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Hesenberg-25/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Hesenberg-25/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hesenberg-25/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hesenberg-25/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Hesenberg-25/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -211,6 +212,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hesenberg-25/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Hesenberg-25/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Stack
@@ -290,6 +292,7 @@
 | [0355-design-twitter](https://github.com/Hesenberg-25/LeetCode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Hesenberg-25/LeetCode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Hesenberg-25/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hesenberg-25/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -412,6 +415,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Hesenberg-25/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Hesenberg-25/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hesenberg-25/LeetCode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hesenberg-25/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hesenberg-25/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hesenberg-25/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/Hesenberg-25/LeetCode/tree/master/3360-stone-removal-game) |
@@ -574,6 +578,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Hesenberg-25/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Hesenberg-25/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Hesenberg-25/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
